@@ -1,0 +1,3 @@
+function somethingElse(){
+	somethingElse2();
+}
