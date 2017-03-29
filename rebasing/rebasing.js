@@ -3,4 +3,5 @@ function test(){
 		console.log(i);
 	}
 	console.log('a');
+	console.log("yeyeye");
 }
