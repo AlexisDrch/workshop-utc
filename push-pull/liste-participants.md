@@ -1,6 +1,6 @@
 # Liste de Participants
 
-+ Creer un autre fichier
+Alexis Durocher
 
 ### Par ordre alphabetique
 
